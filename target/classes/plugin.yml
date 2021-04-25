@@ -1,0 +1,7 @@
+name: NCPExemptGeyser
+version: 1.0-SNAPSHOT
+main: net.zejzz.ncpexemptgeyser.NCPExemptGeyser
+api-version: 1.16
+authors: [ Zejzz ]
+description: Adds players who joined from Geyser to NCP ignore list
+website: zejzz.net
